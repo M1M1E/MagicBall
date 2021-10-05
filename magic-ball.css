@@ -1,0 +1,18 @@
+#btn{
+    margin-top: 20%;
+    margin-left: 40%;
+    border-radius: 9px;
+    width: 20%;
+    height: 60px;
+    font-size: 2.2em;
+    text-align: center;
+    color: #5a84f7;
+    text-shadow: cornflowerblue 6px 5px 3px;
+    background-color: rgba(195, 230, 236, 0.952);
+}
+
+#ball{
+    width: 10%;
+    border: 1px black solid;
+    border-radius: 100%;
+}
